@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**josiahnyamai/JosiahNyamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dedicated data scientist and machine learning enthusiast, I am passionate about transforming raw data into actionable insights. With extensive experience in analyzing complex datasets, developing predictive models, and leveraging advanced machine learning techniques, I excel at uncovering patterns and trends that drive strategic decision-making.
 
-Here are some ideas to get you started:
+## 🛠️ Languages: 
+- Python, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Other skills: 
+- Power BI, Tableau, Excel
+
+## 🌱 I’m currently learning:
+- **Data Science and Machine Learning**
+
+### 📫 How to reach me:
+- **Email**: mungutijosiah1@gmail.com
+
