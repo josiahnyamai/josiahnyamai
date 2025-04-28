@@ -2,11 +2,9 @@
 
 A dedicated data scientist and machine learning enthusiast, I am passionate about transforming raw data into actionable insights. With extensive experience in analyzing complex datasets, developing predictive models, and leveraging advanced machine learning techniques, I excel at uncovering patterns and trends that drive strategic decision-making.
 
-## Languages: 
+## Skills: 
 - Python 🐍
-- SQL 🛢️
-
-## Other skills: 
+- SQL 🛢️ 
 - Power BI 📊
 - Tableau 📈
 - Excel 📗
