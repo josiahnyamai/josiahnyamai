@@ -2,12 +2,13 @@
 
 A dedicated data scientist and machine learning enthusiast, I am passionate about transforming raw data into actionable insights. With extensive experience in analyzing complex datasets, developing predictive models, and leveraging advanced machine learning techniques, I excel at uncovering patterns and trends that drive strategic decision-making.
 
-## Skills: 
-- Python 🐍
-- SQL 🛢️ 
-- Power BI 📊
-- Tableau 📈
-- Excel 📗
+## 🧰 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
 
 ## Currently learning:
 - 🧠 Artificial Intelligence and Machine Learning
